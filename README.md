@@ -1,5 +1,5 @@
 ## Hi there 👋
-[▶️ Lihat Demo Video](./assets/about.mp4)
+![▶️ Lihat Demo Video](./assets/about.mp4)
 
 <!--
 **Andi510/Andi510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
