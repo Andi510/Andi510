@@ -4,14 +4,6 @@
 
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" /> </p>
 
-📌 Featured Project
-🌐 My Website
-
-A modern website built with HTML, CSS, JavaScript, and React.
-
-<img src="./assets/about.gif" width="700">
-
-Tech: HTML • CSS • JavaScript • React
 
 📊 GitHub Stats
 
